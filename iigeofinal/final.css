@@ -32,7 +32,7 @@
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(dpadmod.png);
+    background: url(facemod.png);
 }
 
 .ds4 .stick {
@@ -43,5 +43,5 @@
 }
 
 .ds4 .face {
-    background: url(facemod.png);
+    background: url(dpadmod.png);
     position: absolute;
