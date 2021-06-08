@@ -11,21 +11,21 @@
     width: 99px;
     height: 100%;
     background: url(triggersmod.png);
-    opacity: 100;
+    opacity: 0;
 }
 
 .ds4 .bumper {
     width: 99px;
     height: 23px;
     background: url(bumpermod.png) no-repeat;
-    opacity: 100;
+    opacity: 0;
 }
 
 .ds4 .back, .ds4 .start {
     background: url(startmod.png);
     width: 28px;
     height: 46px;
-    opacity: 100;
+    opacity: 0;
 }
 
 .ds4 .button {
